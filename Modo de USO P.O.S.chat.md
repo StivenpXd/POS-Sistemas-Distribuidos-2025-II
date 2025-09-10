@@ -1,4 +1,4 @@
-1. Como servidor: Selecciona "Registrar como servidor", ingresa tu nombre de usuario y haz clic en "Iniciar servidor"
+1.  Como servidor: Selecciona "Registrar como servidor", ingresa tu nombre de usuario y haz clic en "Iniciar servidor"
 
 2. Como cliente: Selecciona "Conectar como usuario", ingresa nombre de usuario y la IP del servidor, luego "Conectar"
 
