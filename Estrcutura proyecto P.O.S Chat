@@ -1,0 +1,8 @@
+##Estructura P.O.S.Chat
+├── src/                 # Código fuente
+│   └── pos_chat.py     # Aplicación principal
+├── docs/               # Documentación
+├── images/             # Imágenes para documentación
+├── .gitignore         # Archivos ignorados por Git
+├── LICENSE            # Licencia MIT
+└── README.md          # Este archivo
