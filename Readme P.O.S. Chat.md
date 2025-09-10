@@ -1,4 +1,4 @@
-# P.O.S. Chat - Aplicación de Mensajería en Tiempo Real
+## P.O.S. Chat - Aplicación de Mensajería en Tiempo Real
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
@@ -24,4 +24,4 @@ Una aplicación de mensajería en tiempo real con interfaz gráfica, que permite
 
 ### Ejecución
 1. Clona este repositorio:
-git clone https://github.com/StivenpXd/POS-Sistemas-Distribuidos-2025-II/new/main
+git clone https://github.com/StivenpXd/POS-Sistemas-Distribuidos-2025-II
